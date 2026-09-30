@@ -2,11 +2,6 @@
 
 A Colab notebook that turns raw GC-MS result exports into clean, comparable compound tables and figures. I built it during food biotechnology research for aroma profiling, so that lab members without a programming background could process their own runs.
 
-![GC-MS processing workflow](\<img width="563" height="1571" alt="223360864-5404e014-2507-4984-88a6-ce061940cea9" src="https://github.com/user-attachments/assets/5e4e0102-1bdf-4212-a0b6-26aa6273bfdc" />
-)# GC-MS Results Processing (Google Colab)
-
-A Colab notebook that turns raw GC-MS result exports into clean, comparable compound tables and figures. I built it during food biotechnology research for aroma profiling, so that lab members without a programming background could process their own runs.
-
 ![GC-MS processing workflow](https://user-images.githubusercontent.com/55685832/223360864-5404e014-2507-4984-88a6-ce061940cea9.png)
 
 ## What it does
